@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.1.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Author>Q</Author>
+    <Name>PetMove</Name>
+    <Punchline>ペットを指定座標へ移動させる</Punchline>
+    <Description>自分の召喚獣・フェアリーに「移動」を出して、指定した座標へ歩かせます。
+/petmove &lt;x&gt; &lt;y&gt; &lt;z&gt;  /petmove &lt;名前&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;  /petmove here|target|follow|list</Description>
+    <Tags>pet;move;summoner;scholar</Tags>
+  </PropertyGroup>
+</Project>

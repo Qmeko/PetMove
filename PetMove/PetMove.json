@@ -2,7 +2,7 @@
   "Author": "Qmeko",
   "Name": "PetMove",
   "InternalName": "PetMove",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.1.1",
   "Description": "自分の召喚獣・フェアリーに「移動」を出して、指定した座標へ歩かせます。\n/petmove <x> <y> <z>  /petmove <名前> <x> <y> <z>  /petmove here|target|follow|list|cursor",
   "Punchline": "ペットを指定座標へ移動させる",
   "RepoUrl": "https://github.com/Qmeko/PetMove",

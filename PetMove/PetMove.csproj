@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Version>0.0.1.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Author>Q</Author>
+    <Author>Qmeko</Author>
     <Name>PetMove</Name>
     <Punchline>ペットを指定座標へ移動させる</Punchline>
     <Description>自分の召喚獣・フェアリーに「移動」を出して、指定した座標へ歩かせます。
